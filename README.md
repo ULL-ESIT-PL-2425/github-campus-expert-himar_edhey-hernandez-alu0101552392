@@ -1,8 +1,8 @@
 # Github Campus Expert 
 
-- Nombre 
-- Apellidos 
-- aluXXXX
+- Nombre: Himar Edhey
+- Apellidos:  Hernández Alonso
+- alu0101552392
 
 ## Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
 
